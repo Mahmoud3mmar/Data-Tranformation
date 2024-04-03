@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearCreated": "1970",
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:19.932Z"
+  },
+  "yearFounded": 1970
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:19.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "yearCreated": "1970",
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "yearsFounded": "1980",
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.059Z"
+  },
+  "yearFounded": 1600
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "yearCreated": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1,
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 9200,
+  "hqAddress": "DuBuqueburgh",
+  "brand": {},
+  "headquarters": "Unknown",
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.072Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "brand": {
+    "name": "Licensed Concrete Tuna"
+  },
+  "brandName": "Unknown",
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "brand": "",
+  "updatedAt": {
+    "$date": "2024-04-03T15:48:20.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1ad"
+  },
+  "brandName": "Dicki - Deckow",
+  "yearFounded": 1928,
+  "headquarters": "Lake Llewellynworth",
+  "numberOfLocations": 395,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1ae"
+  },
+  "brandName": "Stanton, Koepp and Hodkiewicz",
+  "yearFounded": 2018,
+  "headquarters": "Levimouth",
+  "numberOfLocations": 488,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1af"
+  },
+  "brandName": "Lockman - Ledner",
+  "yearFounded": 1912,
+  "headquarters": "Rohanport",
+  "numberOfLocations": 186,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b0"
+  },
+  "brandName": "Muller - Franey",
+  "yearFounded": 1942,
+  "headquarters": "East Bessie",
+  "numberOfLocations": 987,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b1"
+  },
+  "brandName": "Bailey, Rolfson and Reichert",
+  "yearFounded": 2017,
+  "headquarters": "West Lueland",
+  "numberOfLocations": 435,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b2"
+  },
+  "brandName": "Hickle LLC",
+  "yearFounded": 1966,
+  "headquarters": "Marleeville",
+  "numberOfLocations": 195,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b3"
+  },
+  "brandName": "Considine Group",
+  "yearFounded": 1937,
+  "headquarters": "Largo",
+  "numberOfLocations": 242,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b4"
+  },
+  "brandName": "Wuckert Inc",
+  "yearFounded": 2019,
+  "headquarters": "Uptonfort",
+  "numberOfLocations": 647,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b5"
+  },
+  "brandName": "Marquardt, Klein and Bosco",
+  "yearFounded": 1921,
+  "headquarters": "Hilbertland",
+  "numberOfLocations": 469,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d7c4d789c9cd70681d1b6"
+  },
+  "brandName": "Quitzon and Sons",
+  "yearFounded": 2004,
+  "headquarters": "Aliso Viejo",
+  "numberOfLocations": 615,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-03T15:57:01.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T15:57:01.880Z"
+  }
+}]
