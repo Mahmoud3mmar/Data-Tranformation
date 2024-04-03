@@ -30,7 +30,7 @@ This API provides endpoints to interact with a MongoDB collection named "brands"
      - *200 OK*: Returns the newly seeded brand data along with a success message.
 
 ## Project Structure
-
+```
 ├── src
 │   ├── Controllers
 │   │   └── brands-controller.ts
@@ -44,7 +44,7 @@ This API provides endpoints to interact with a MongoDB collection named "brands"
 ├── .env
 ├── package.json
 └── README.md
-
+```
 
 - **Controllers**: Contains the controller functions for handling HTTP requests.
 - **Models**: Defines the Mongoose schema for the "brands" collection.
